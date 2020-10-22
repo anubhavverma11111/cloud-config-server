@@ -7,7 +7,7 @@ eureka:
   instance:
     hostname: localhost
     
-mananement:
+management:
   payment-services:
     endpoints:
       endpoint:
